@@ -1,14 +1,4 @@
-**README.md - Friendzone**
-
-Module Name: Web Technologies and Security
-
-Module Code: CSC-40082
-
-Assignment Number: 4
-
-Student Number: 23046402
-
-Submission Deadline: 4th March 2024, 13:00 UK Time
+**Friendzone**
 
 ### File Structure
 
